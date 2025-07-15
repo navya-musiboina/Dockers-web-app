@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Free DevOps Course By Abhishek</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Free DevOps Course By Abhishek</h1>
+
+        <p><strong>Agenda:</strong></p>
+        <ul>
+            <li>Learn DevOps with strong foundational knowledge and practical understanding</li>
+            <li>Please share the channel with your friends and colleagues</li>
+        </ul>
+
+        <p>@AbhishekVeeramalla</p>
+
+        <div class="links">
+            <a href="https://youtube.com" target="_blank">YouTube</a> |
+            <a href="https://linkedin.com" target="_blank">LinkedIn</a> |
+            <a href="https://telegram.org" target="_blank">Telegram</a>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
